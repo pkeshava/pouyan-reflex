@@ -4,6 +4,7 @@ import reflex as rx
 
 from rxconfig import config
 from .pages.landing_page import *
+from .pages.projects import *
 
 class AppConfig(rx.Config):
     pass
@@ -41,4 +42,5 @@ app = rx.App(stylesheets=[
     ],)
 app.add_page(index)
 app.add_page(blog)
+app.add_page(projects)
 
