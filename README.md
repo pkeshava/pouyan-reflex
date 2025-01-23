@@ -1,0 +1,3 @@
+# Landing page and porfolio project using reflex
+
+Developing my personal webpage using reflex. Started this project with the [react-three-next starter](https://github.com/pmndrs/react-three-next) ... going to try and port that [repository's](https://github.com/pkeshava/nextjs-rf3-portfolio) code so that I just work in python... with exception to the react components (3D assets) which I will try and wrap using React. 
